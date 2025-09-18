@@ -8,7 +8,7 @@ A secure, scalable multi-tenant SaaS application for note management with role-b
 ## 🚀 Live Demo
 
 - **Frontend**: [https://notesappfrontend-1jgl.vercel.app/](https://notesappfrontend-1jgl.vercel.app/)
-- **Backend API**: [https://saasproject-xi.vercel](https://saasproject-xi.vercel) [REPO](https://github.com/abhigupta0507/saasproject).
+- **Backend API**: [https://saasproject-xi.verce.app/](https://saasproject-xi.vercel.app/) [REPO](https://github.com/abhigupta0507/saasproject).
 
 
 # Getting Started with Create React App
