@@ -1,6 +1,6 @@
 // API Configuration
 const API_BASE_URL = process.env.REACT_APP_API_BASE_URl;
-console.log(process.env);
+console.log(API_BASE_URL);
 // API Helper Functions
 export const api = {
   login: async (email, password) => {
