@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = "https://saasproject-xi.vercel.app/api/v1";
+const API_BASE_URL = process.env.API_BASE_URL;
 
 // API Helper Functions
 export const api = {
